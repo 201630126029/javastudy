@@ -3,7 +3,7 @@ package study.java;
 
 import static java.lang.System.*;
 public class ClassViewer extends MyDate{
-    public static void main(String args[]){
+    public static void main(String[] args){
         MyDate m1=new MyDate(24,3,2001);
         MyDate m2=new ClassViewer(24,3,2001);
         out.println(m1);
