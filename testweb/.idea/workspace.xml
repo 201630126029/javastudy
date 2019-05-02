@@ -7,21 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b997a21a-36b0-4bf4-a3ee-4ccd2c60e2bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Main/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Main/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Main/src/thread/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Main/temp/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/out/production/Main/study/java/CalendarDate8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/out/production/Main/study/java/CalendarDate8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/out/production/Main/study/java/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/out/production/Main/study/java/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/out/production/Main/study/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/out/production/Main/study/java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/CalendarDate8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/src/study/java/CalendarDate8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/ClassViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/src/study/java/ClassViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/DoubleAndString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/src/study/java/DoubleAndString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/src/study/java/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/src/study/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/testweb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/testweb_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,10 +19,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testweb.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+      </list>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -55,22 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -82,18 +80,39 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555847695158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555850622147" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Siryu\IdeaProjects\testweb\web" />
+      <recent name="C:\Users\Siryu\IdeaProjects\testweb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Siryu\IdeaProjects\testweb" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,11 +126,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.jsp">
+  <component name="RunManager" selected="Tomcat Server.testweb">
     <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/testweb_war_exploded/index.jsp">
       <method v="2" />
     </configuration>
-    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="testweb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
       <deployment>
         <artifact name="testweb:war exploded">
@@ -184,13 +203,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.index.jsp" />
       <item itemvalue="JavaScript Debug.index.jsp" />
+      <item itemvalue="Tomcat Server.testweb" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Tomcat Server.testweb" />
         <item itemvalue="JavaScript Debug.index.jsp" />
-        <item itemvalue="Tomcat Server.index.jsp" />
       </list>
     </recent_temporary>
   </component>
@@ -208,16 +227,20 @@
       <workItem from="1554192729129" duration="1214000" />
       <workItem from="1554383308298" duration="60000" />
       <workItem from="1555847446091" duration="256000" />
+      <workItem from="1555848264012" duration="101000" />
+      <workItem from="1555849970718" duration="772000" />
+      <workItem from="1555851349950" duration="173000" />
+      <workItem from="1555851556097" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6860000" />
+    <option name="totallyTimeSpent" value="8045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27912623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -232,14 +255,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3298731" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290993" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -257,8 +280,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testweb.iml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -273,6 +303,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -320,6 +351,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

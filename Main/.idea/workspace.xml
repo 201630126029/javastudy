@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46170614-a2ce-4a09-b410-50822cba9b68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/CalendarDate8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/study/java/CalendarDate8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/study/java/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/study/java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/CalendarDate8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/java/CalendarDate8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/ClassViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/java/ClassViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/DoubleAndString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/java/DoubleAndString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/java/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/DoubleAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/study/java/DoubleAndString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/BlockingQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testweb/out/artifacts/testweb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/out/artifacts/testweb_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testweb/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +26,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Main" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/study/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,6 +67,12 @@
         <option value="$PROJECT_DIR$/src/study/java/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" />
         <option value="$PROJECT_DIR$/src/study/java/Main.java" />
+        <option value="$PROJECT_DIR$/temp.txt" />
+        <option value="$PROJECT_DIR$/src/thread/Server.java" />
+        <option value="$PROJECT_DIR$/src/thread/Client.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -63,29 +82,31 @@
     <option name="width" value="1260" />
     <option name="height" value="944" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555765392010" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testweb" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556370995369" />
+    <property name="last_opened_file_path" value="F:/maven/first-app-demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -104,9 +125,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.BlockingQueueTest" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Client" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
@@ -118,41 +139,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarDate8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.java.CalendarDate8" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleAndString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.java.DoubleAndString" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.java.Fibonacci" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,13 +159,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Server" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BlockingQueueTest" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.CalendarDate8" />
-        <item itemvalue="Application.DoubleAndString" />
       </list>
     </recent_temporary>
   </component>
@@ -207,34 +216,56 @@
       <workItem from="1555589199757" duration="67000" />
       <workItem from="1555733714409" duration="6082000" />
       <workItem from="1555847391611" duration="51000" />
+      <workItem from="1555931272599" duration="8033000" />
+      <workItem from="1555993438378" duration="1404000" />
+      <workItem from="1556168884402" duration="200000" />
+      <workItem from="1556169110566" duration="161000" />
+      <workItem from="1556169293365" duration="131000" />
+      <workItem from="1556169446192" duration="614000" />
+      <workItem from="1556183981694" duration="499000" />
+      <workItem from="1556184505933" duration="3970000" />
+      <workItem from="1556195930756" duration="1428000" />
+      <workItem from="1556253674254" duration="9549000" />
+      <workItem from="1556368516546" duration="1324000" />
+      <workItem from="1556370885454" duration="200000" />
+      <workItem from="1556371115302" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89235000" />
+    <option name="totallyTimeSpent" value="116875000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31391585" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.1788026" />
+      <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.16666667" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008606" side_tool="true" weight="0.16666667" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.3290993" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49838188" weight="0.3290993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008091" side_tool="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50161815" side_tool="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -309,9 +340,6 @@
     <entry file="file://$PROJECT_DIR$/Main.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/study/java/DoubleAndString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -379,21 +407,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/BlockingQueueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/thread/BlockingQueueTest.java" />
+    <entry file="file://$PROJECT_DIR$/temp.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="69" column="1" selection-start-line="12" selection-end-line="69" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#321#329#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1850">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/study/java/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
