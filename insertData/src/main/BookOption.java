@@ -7,6 +7,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 对Book表进行操作
+ */
 public class BookOption {
     /**
      * 插入一本书，这本书的信息在文件里面

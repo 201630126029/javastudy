@@ -5,6 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 一些杂乱的操作函数放在这个里面
+ */
 public class Option {
 
     private static final String SQL = "SELECT * FROM ";// 数据库操作
@@ -109,6 +112,7 @@ public class Option {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        ConnectionOption.closeConnection(con);
     }
 
     private static void append(List<String> values, StringBuffer sb) {

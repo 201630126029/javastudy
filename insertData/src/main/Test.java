@@ -3,16 +3,15 @@ package main;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Logger;
 
 public class Test   {
 
 //    private static final Logger logger = LoggerFactory.getLogger(DatabaseTest.class);
 
     private static final String DRIVER = "com.mysql.jdbc.Driver";
-    private static final String DATABASE_URL = "jdbc:mysql://120.78.138.100:3306/weixinweb";
-    private static final String USERNAME = "weixinweb";
-    private static final String PASSWORD = "TYah8MiSLyACkkr5";
+    private static final String DATABASE_URL = "jdbc:mysql://120.77.81.46:3306/jol";
+    private static final String USERNAME = "debian-sys-maint";
+    private static final String PASSWORD = "pWDlXq9AQukCNhhI";
 
     private static final String SQL = "SELECT * FROM ";// 数据库操作
 
@@ -35,6 +34,9 @@ public class Test   {
             conn = DriverManager.getConnection(DATABASE_URL, USERNAME, PASSWORD);
         } catch (SQLException e) {
 //            logger.error("get connection failure", e);
+        }
+        if(conn == null){
+            System.out.println("连接失败.");
         }
         return conn;
     }
