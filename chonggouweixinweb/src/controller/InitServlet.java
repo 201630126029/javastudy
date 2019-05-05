@@ -26,5 +26,8 @@ public class InitServlet extends HttpServlet {
         init.setDATABASE_URL(context.getInitParameter("DATABASE_URL"));
         init.setPASSWORD(context.getInitParameter("PASSWORD"));
         init.setUSERNAME(context.getInitParameter("USERNAME"));
+        init.setOpenid_url(context.getInitParameter("openid_url"));
+        init.setAppid(context.getInitParameter("appid"));
+        init.setSecret(context.getInitParameter("secret"));
     }
 }

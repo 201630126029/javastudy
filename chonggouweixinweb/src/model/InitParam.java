@@ -10,6 +10,34 @@ public class InitParam{
     private String USERNAME ;
     private String PASSWORD;
     private static InitParam initParam;
+    private String openid_url;
+    private String appid;
+    private String secret;
+
+
+    public String getOpenid_url() {
+        return openid_url;
+    }
+
+    public void setOpenid_url(String openid_url) {
+        this.openid_url = openid_url;
+    }
+
+    public void setAppid(String appid) {
+        this.appid = appid;
+    }
+
+    public void setSecret(String secret) {
+        this.secret = secret;
+    }
+
+    public String getAppid() {
+        return appid;
+    }
+
+    public String getSecret() {
+        return secret;
+    }
 
     /**
      * 获取单例对象

@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47f09be-4d90-4794-a280-704759790a73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/artifacts/chonggouweixinweb_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/dictionaries/Siryu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/libraries/fastjson_1_2_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/chonggouweixinweb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/AddCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/Authentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/BookInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/CheckOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/GetFrontInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/nouse/ModifyStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/Classify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/ExecuteUpd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/GetJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/LoginDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/Readclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/initUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/sqlfilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/controller/InitServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/dao/ConnectionOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/dao/DatabaseOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/model/InitParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/test/TestConnectionDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/src/test/TestInsertUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/lib/fastjson-1.2.54.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/lib/simple-Json.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/insertData/dao/ConnectionOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/insertData/dao/ConnectionOption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/insertData/dao/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/insertData/dao/Option.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/insertData/main/BookOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/insertData/main/BookOption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/insertData/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/insertData/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/insertData/main/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/insertData/main/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/ConnectionOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ConnectionOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/Option.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/Option.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/BookOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BookOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -279,16 +230,15 @@
       <updated>1556795951848</updated>
       <workItem from="1556795955998" duration="10462000" />
       <workItem from="1556869114010" duration="3704000" />
-      <workItem from="1556971375887" duration="237000" />
+      <workItem from="1556971375887" duration="372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14418000" />
+    <option name="totallyTimeSpent" value="14538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14563107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

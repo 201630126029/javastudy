@@ -19,4 +19,16 @@
         <param-name>PASSWORD</param-name>
         <param-value>rAIubEa1hvDPK7mM</param-value>
     </context-param>
+    <context-param>
+        <param-name>openid_url</param-name>
+        <param-value>https://api.weixin.qq.com/sns/jscode2session?</param-value>
+    </context-param>
+    <context-param>
+        <param-name>appid</param-name>
+        <param-value>wxdc9f23490d56599c</param-value>
+    </context-param>
+    <context-param>
+        <param-name>secret</param-name>
+        <param-value>c39052978a3e80d55ff53227013384ce</param-value>
+    </context-param>
 </web-app>
