@@ -7,9 +7,7 @@ import java.io.PrintWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.Collection;
 import java.util.Map;
-import java.util.Set;
 
 public class SendGetAndPost {
     /**
@@ -18,7 +16,7 @@ public class SendGetAndPost {
      * @param param_values 参数Map
      * @return 网页的返回值
      */
-    public static String sendGET(String url, Map<String,String> param_values){
+    public static String sendGET(String url, Map<String,String> param_values) throws Exception{
         StringBuffer sb = new StringBuffer(url);
         try{
             Generate(param_values, sb);
@@ -26,7 +24,7 @@ public class SendGetAndPost {
             e.printStackTrace();
         }
         BufferedReader in = null;
-        String result = "";
+        String result = null;
         try{
             String realURL = sb.toString();
             System.out.println("url是:"+realURL);
@@ -35,8 +33,8 @@ public class SendGetAndPost {
             conn.setRequestProperty("accept","*/*");
             conn.setRequestProperty("connection", "Keep-Alive");
             conn.connect();
-            String line;
-            readData(in,result);
+            in=new BufferedReader(new InputStreamReader(conn.getInputStream()));
+            result = readData(in);
             in.close();
         } catch (MalformedURLException e) {
             e.printStackTrace();
@@ -51,7 +49,7 @@ public class SendGetAndPost {
      * @param param_values 参数
      * @param sb 请求的url
      */
-    private static void Generate(Map<String, String> param_values, StringBuffer sb)  throws NullPointerException{
+    private static void Generate(Map<String, String> param_values, StringBuffer sb){
         boolean flag = false;
         if(param_values == null){  //没有参数要处理
             return ;
@@ -90,7 +88,7 @@ public class SendGetAndPost {
             //。。。
 
             out.flush();
-            readData(in, result);
+            result = readData(in);
             in.close();
             out.close();
         } catch (MalformedURLException e) {
@@ -102,15 +100,22 @@ public class SendGetAndPost {
     }
 
     /**
-     * 就是将从in中读入所有数据放到result后面
+     * 就是将从in中读入所有数据放到result返回
      * @param in 输入流
-     * @param result 操作的String
+     * @return result
      * @throws IOException
      */
-    public static void readData(BufferedReader in, String result) throws IOException {
-        String line ;
-        while((line = in.readLine()) != null){
-            result += line+"\n";
+    public static String  readData(BufferedReader in)  {
+        String line;
+        String result="";
+        try {
+            while((line = in.readLine()) != null){
+                result += line;
+                System.out.println("line"+line+"\n");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+        return result;
     }
 }

@@ -7,21 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227601-5d17-4bd9-bfb4-f4db41ea0224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Request/SendGetAndPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/InitUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/BookInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webAllTest/src/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/model/InitParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/model/InitParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/test/TestInsertUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/test/TestInsertUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/InitServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/InitServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/InitParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/InitParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/TestInsertUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestInsertUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/model/InitParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/model/InitParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/test/TestInsertUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/test/TestInsertUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../insertData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../insertData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/Request/SendGetAndPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/Request/SendGetAndPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Request/SendGetAndPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Request/SendGetAndPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/InitUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/InitUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Request/SendGetAndPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Request/SendGetAndPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webAllTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webAllTest/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,43 +42,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            <state relative-caret-position="-60">
+              <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#766#794#1" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
+        <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dao/DatabaseOption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1625">
-              <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
-              <folding>
-                <element signature="method#getColumnNames#0;class#DatabaseOption#0" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/controller/InitServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+            <state relative-caret-position="191">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Request/SendGetAndPost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-785">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#sendGET#0;class#SendGetAndPost#0" />
+                <element signature="method#Generate#0;class#SendGetAndPost#0" />
+                <element signature="method#sendPOST#0;class#SendGetAndPost#0" />
               </folding>
             </state>
           </provider>
@@ -126,8 +122,9 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/model/InitParam.java" />
         <option value="$PROJECT_DIR$/src/controller/InitServlet.java" />
-        <option value="$PROJECT_DIR$/src/controller/InitUser.java" />
         <option value="$PROJECT_DIR$/src/Request/SendGetAndPost.java" />
+        <option value="$PROJECT_DIR$/src/controller/InitUser.java" />
+        <option value="$PROJECT_DIR$/src/controller/BookInfo.java" />
       </list>
     </option>
   </component>
@@ -152,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +160,12 @@
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="nouse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
@@ -225,12 +226,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557065651192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557237699773" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -241,13 +244,14 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\others" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src\controller" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\web\WEB-INF\lib" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src\over" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\others" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -387,17 +391,17 @@
       <workItem from="1556870214346" duration="15834000" />
       <workItem from="1556971490107" duration="976000" />
       <workItem from="1557057957629" duration="7734000" />
+      <workItem from="1557233236098" duration="4461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24544000" />
+    <option name="totallyTimeSpent" value="29005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.25809062" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.17718446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,12 +411,12 @@
       <window_info id="Web" order="7" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18129331" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37644342" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.1073903" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.4053118" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -449,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -570,13 +567,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/InitParam.java">
+    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="275">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="method#getInitParam#0;class#InitParam#0" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/InitServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -591,41 +597,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
+    <entry file="file://$PROJECT_DIR$/src/model/InitParam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="-297">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="method#getInitParam#0;class#InitParam#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Request/SendGetAndPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#readData#0;class#SendGetAndPost#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -639,13 +618,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/InitServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+        <state relative-caret-position="150">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Request/SendGetAndPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#sendGET#0;class#SendGetAndPost#0" />
+            <element signature="method#Generate#0;class#SendGetAndPost#0" />
+            <element signature="method#sendPOST#0;class#SendGetAndPost#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#766#794#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
