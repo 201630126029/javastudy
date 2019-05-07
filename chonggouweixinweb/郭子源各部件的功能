@@ -1,0 +1,2 @@
+1. BookInfo.do
+参数：bookid:书籍的id  fuzzy: 为true参数是书籍名匹配   bookname:书籍的名字

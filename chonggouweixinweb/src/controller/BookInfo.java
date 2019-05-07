@@ -11,7 +11,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.HashMap;
 
-// 首先明确我们这个目的是目标页面的分类功能，根据用户所需要返回所有该类别的图书
+/**
+ * 首先明确我们这个目的是目标页面的分类功能，根据用户所需要返回所有该类别的图书
+ */
 @WebServlet(name = "BookInfo", urlPatterns = {"/BookInfo.do"}, loadOnStartup = 2)
 public class BookInfo extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
@@ -25,9 +27,8 @@ public class BookInfo extends HttpServlet {
          */
         boolean isfuzzy = false;
         if(fuzzy != null && fuzzy.equals("true") && bookname != null) isfuzzy = true;
-        // 防止sql注入
-        if (isfuzzy ) {  //是否为
-            String sql = "";
+        if (true) {  //没有sql注入，后期加上
+            String sql;
             if(!isfuzzy) sql = "select * from book where BookId = " + bookid;
             else sql = "select * from Book where BookName like '"+bookname+"%'";
             HashMap<String,String> names = new HashMap<>();

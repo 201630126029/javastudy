@@ -7,16 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227601-5d17-4bd9-bfb4-f4db41ea0224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controller/BookInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webAllTest/src/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/郭子源各部件的功能" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/Request/SendGetAndPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/Request/SendGetAndPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request/SendGetAndPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Request/SendGetAndPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/InitUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/InitUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Request/SendGetAndPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Request/SendGetAndPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webAllTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webAllTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/BookInfo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +35,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
+            <state relative-caret-position="1050">
               <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#766#794#1" />
               </folding>
             </state>
           </provider>
@@ -56,16 +48,34 @@
         <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
+        <entry file="file://$PROJECT_DIR$/others/over/GetJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="475">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/郭子源各部件的功能">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -73,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Request/SendGetAndPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-785">
+            <state relative-caret-position="50">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -124,6 +134,8 @@
         <option value="$PROJECT_DIR$/src/controller/InitServlet.java" />
         <option value="$PROJECT_DIR$/src/Request/SendGetAndPost.java" />
         <option value="$PROJECT_DIR$/src/controller/InitUser.java" />
+        <option value="$PROJECT_DIR$/郭子源各部件的功能" />
+        <option value="$PROJECT_DIR$/others/over/GetJson.java" />
         <option value="$PROJECT_DIR$/src/controller/BookInfo.java" />
       </list>
     </option>
@@ -149,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +178,7 @@
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
-              <item name="nouse" type="462c0819:PsiDirectoryNode" />
+              <item name="over" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
@@ -207,33 +220,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557237699773" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557238569310" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -392,16 +389,18 @@
       <workItem from="1556971490107" duration="976000" />
       <workItem from="1557057957629" duration="7734000" />
       <workItem from="1557233236098" duration="4461000" />
+      <workItem from="1557237875688" duration="695000" />
+      <workItem from="1557238597362" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29005000" />
+    <option name="totallyTimeSpent" value="29714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.17718446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.18203883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -484,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/others/over/GetJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/Servlet.java" />
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
@@ -567,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/controller/InitServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -625,9 +607,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/郭子源各部件的功能">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Request/SendGetAndPost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-785">
+        <state relative-caret-position="50">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -638,28 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/InitUser.java">
+    <entry file="file://$PROJECT_DIR$/others/over/GetJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#766#794#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/nouse/BookInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state relative-caret-position="475">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
         </state>
       </provider>
     </entry>
