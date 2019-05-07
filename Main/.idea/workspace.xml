@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46170614-a2ce-4a09-b410-50822cba9b68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/DoubleAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/study/java/DoubleAndString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/study/java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/BlockingQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/thread/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/BlockingQueueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testweb/out/artifacts/testweb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/out/artifacts/testweb_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testweb/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testweb/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +19,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="108">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dstang.com">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4509">
+              <caret line="167" column="16" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -90,8 +84,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -99,7 +103,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556370995369" />
-    <property name="last_opened_file_path" value="F:/maven/first-app-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chonggouweixinweb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -229,11 +233,13 @@
       <workItem from="1556368516546" duration="1324000" />
       <workItem from="1556370885454" duration="200000" />
       <workItem from="1556371115302" duration="127000" />
+      <workItem from="1557072610069" duration="582000" />
+      <workItem from="1557243663091" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116875000" />
+    <option name="totallyTimeSpent" value="117540000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,9 +251,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.1788026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.16666667" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,9 +319,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/唐大仕java程序设计/ch04/AccessControl/Original.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/唐大仕java程序设计/ch04/AccessControl/Original.java" />
     <entry file="file://$PROJECT_DIR$/src/study/java/TestCleanUp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -370,16 +374,7 @@
     <entry file="file://$PROJECT_DIR$/pku.htm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/唐大仕java程序设计/ch04/TestFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="33" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dstang.com">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/唐大仕java程序设计/ch04/TestFinal.java" />
     <entry file="file://$PROJECT_DIR$/baidu.htm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -457,11 +452,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dstang.com">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4509">
+          <caret line="167" column="16" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ import java.sql.Statement;
 import java.util.Map;
 
 public class GetJson {
-    public static void Getinfo(HttpServletRequest request, HttpServletResponse response, String QueryString, Map<String,String> names) throws ServerException, IOException {
+    public static void Getinfo(HttpServletRequest request, HttpServletResponse response, String QueryString, Map<String,String> names) throws ServerException{
         response.setHeader("Content - Encoding","utf-8");
         response.setContentType("text/json; charset=utf-8");
         ServletContext context = request.getServletContext();

@@ -87,6 +87,32 @@ public class DatabaseOption {
     }
 
 
+
+    public static Map<String, String> queryParam(String table, Collection<String> params){
+        Connection conn = ConnectionOption.getConnection();
+        Statement stmt = null;
+        Map<String, String> param_values=null;
+        try{
+            stmt = conn.createStatement();
+            String sql;
+            sql = "select (" + append(params)+") from " + table;
+            ResultSet rs = stmt.executeQuery(sql);
+            param_values = new HashMap<>();
+            while(rs.next()){
+                for(String param:params){
+                    String value = rs.getString(param);
+                    param_values.put(param,value);
+                }
+            }
+            rs.close();
+            stmt.close();
+        }catch(SQLException se){
+            se.printStackTrace();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        return param_values;
+    }
     /**
      * 向数据库里插入一组数据
      * @param table 要插入的表
@@ -101,14 +127,14 @@ public class DatabaseOption {
             StringBuffer sb = new StringBuffer();
             sb.append("insert into "+table);
             sb.append("(");
-            append(columns, sb);
+            sb.append(columns);
             sb.append(") values ");
             sb.append("(");
-            append(values, sb);
+            sb.append(values);
             sb.append(")");
             String sql = sb.toString();
             stmt=con.createStatement();
-            System.out.println(sql);
+            System.out.println("执行了 "+sql);
             stmt.executeUpdate(sql);
         } catch (SQLException e) {
             e.printStackTrace();
@@ -116,11 +142,12 @@ public class DatabaseOption {
     }
 
     /**
-     * 将values进行组合，以逗号隔开，再添加到sb后面
+     * 将values进行组合，以逗号隔开
      * @param values 值的list
-     * @param sb 添加上去的字符串
+     * @return 组合的String
      */
-    private static void append(Collection<String> values, StringBuffer sb) {
+    private static String append(Collection<String> values) {
+        StringBuffer sb = new StringBuffer();
         boolean flag;
         flag = false;
         for (String value : values) {
@@ -128,6 +155,7 @@ public class DatabaseOption {
             sb.append(value);
             flag = true;
         }
+        return sb.toString();
     }
 
 }
