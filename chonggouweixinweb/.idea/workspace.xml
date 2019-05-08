@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="chonggouweixinweb:war exploded" />
@@ -7,13 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227601-5d17-4bd9-bfb4-f4db41ea0224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据库操作" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/others/over/GetJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/others/over/GetJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/BookInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dao/DatabaseOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DatabaseOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/郭子源各部件的功能" beforeDir="false" afterPath="$PROJECT_DIR$/郭子源各部件的功能" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,33 +23,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chonggouweixinweb" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dao/DatabaseOption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="91" column="59" lean-forward="true" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="59" />
-              <folding>
-                <element signature="method#getColumnNames#0;class#DatabaseOption#0" />
-                <element signature="method#queryAll#0;class#DatabaseOption#0" />
-                <element signature="method#insert#0;class#DatabaseOption#0" />
-                <element signature="method#append#0;class#DatabaseOption#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,13 +79,16 @@
         <option value="$PROJECT_DIR$/src/controller/InitServlet.java" />
         <option value="$PROJECT_DIR$/src/Request/SendGetAndPost.java" />
         <option value="$PROJECT_DIR$/src/controller/InitUser.java" />
-        <option value="$PROJECT_DIR$/src/controller/BookInfo.java" />
         <option value="$PROJECT_DIR$/others/over/ExecuteUpd.java" />
         <option value="$PROJECT_DIR$/郭子源各部件的功能" />
         <option value="$PROJECT_DIR$/others/over/GetJson.java" />
         <option value="$PROJECT_DIR$/src/model/User.java" />
         <option value="$PROJECT_DIR$/src/model/Book.java" />
+        <option value="$PROJECT_DIR$/数据库操作" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console_1.sql" />
         <option value="$PROJECT_DIR$/src/dao/DatabaseOption.java" />
+        <option value="$PROJECT_DIR$/src/controller/BookInfo.java" />
       </list>
     </option>
   </component>
@@ -102,6 +98,12 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -117,8 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,12 +130,6 @@
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
-              <item name="over" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
@@ -181,12 +175,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557245577932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557315323454" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -194,7 +192,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -348,24 +346,26 @@
       <workItem from="1557237875688" duration="695000" />
       <workItem from="1557238597362" duration="14000" />
       <workItem from="1557243752767" duration="1803000" />
+      <workItem from="1557299725194" duration="4042000" />
+      <workItem from="1557315354487" duration="344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31517000" />
+    <option name="totallyTimeSpent" value="35903000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.18456884" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.19093852" />
+      <window_info id="Structure" order="1" sideWeight="0.5045593" side_tool="true" weight="0.18770227" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.5008606" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="6" sideWeight="0.50303954" side_tool="true" weight="0.18770227" />
+      <window_info id="Web" order="7" sideWeight="0.50303954" side_tool="true" weight="0.18770227" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37644342" />
@@ -379,21 +379,66 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3290993" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3290993" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.24018475" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.7009238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32928804" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32928804" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chonggouweixinweb.iml">
@@ -550,13 +595,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/User.java" />
     <entry file="file://$PROJECT_DIR$/src/model/InitParam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -573,13 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -624,23 +656,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Book.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库操作">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/DatabaseOption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="91" column="59" lean-forward="true" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="59" />
-          <folding>
-            <element signature="method#getColumnNames#0;class#DatabaseOption#0" />
-            <element signature="method#queryAll#0;class#DatabaseOption#0" />
-            <element signature="method#insert#0;class#DatabaseOption#0" />
-            <element signature="method#append#0;class#DatabaseOption#0" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="154" column="29" lean-forward="true" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
         </state>
       </provider>
     </entry>

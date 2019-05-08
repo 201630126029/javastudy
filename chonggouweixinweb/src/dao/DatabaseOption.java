@@ -79,7 +79,7 @@ public class DatabaseOption {
             e.printStackTrace();
         }finally{
             try{
-                if(stmt!=null) stmt.close();
+                if(stmt!=null) {stmt.close();}
             }catch(SQLException se2){
             }
         }
@@ -151,7 +151,7 @@ public class DatabaseOption {
         boolean flag;
         flag = false;
         for (String value : values) {
-            if (flag) sb.append(",");
+            if (flag) {sb.append(",");}
             sb.append(value);
             flag = true;
         }

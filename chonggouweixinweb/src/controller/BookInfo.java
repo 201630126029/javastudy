@@ -16,6 +16,7 @@ import java.util.HashMap;
  */
 @WebServlet(name = "BookInfo", urlPatterns = {"/BookInfo.do"}, loadOnStartup = 2)
 public class BookInfo extends HttpServlet {
+    @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
                           throws ServletException{
 
@@ -26,11 +27,11 @@ public class BookInfo extends HttpServlet {
          * 此处需加一个过滤器
          */
         boolean isfuzzy = false;
-        if(fuzzy != null && fuzzy.equals("true") && bookname != null) isfuzzy = true;
+        if(fuzzy != null && fuzzy.equals("true") && bookname != null) {isfuzzy = true; }
         if (true) {  //没有sql注入，后期加上
             String sql;
-            if(!isfuzzy) sql = "select * from book where BookId = " + bookid;
-            else sql = "select * from Book where BookName like '"+bookname+"%'";
+            if(!isfuzzy) { sql = "select * from book where BookId = " + bookid; }
+            else { sql = "select * from Book where BookName like '"+bookname+"%'"; }
             HashMap<String,String> names = new HashMap<>();
             names.put("BookID","BookId");
             names.put("BookName","BookName");
@@ -40,6 +41,7 @@ public class BookInfo extends HttpServlet {
             GetJson.Getinfo(request,response,sql,names);
         }
     }
+    @Override
     protected void doGet(HttpServletRequest request,
                           HttpServletResponse response)
             throws ServletException, IOException {
