@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.liferay:javax.servlet.jsp.jstl:1.2.3.LIFERAY-PATCHED-2" type="repository">
+    <properties maven-id="com.liferay:javax.servlet.jsp.jstl:1.2.3.LIFERAY-PATCHED-2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/liferay/javax.servlet.jsp.jstl/1.2.3.LIFERAY-PATCHED-2/javax.servlet.jsp.jstl-1.2.3.LIFERAY-PATCHED-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
