@@ -12,11 +12,11 @@
     <title>
         Spittr
     </title>
-    <link rel="stylesheet" type="text/css" href="<c:url value="/resources/style.css"/>">
+    <%--<link rel="stylesheet" type="text/css" href="<c:url value="/resources/style.css"/>">--%>
 </head>
 <body>
 <h1> welcome to Spittr</h1>
-<a href="<c:url value="/spittles"/> ">Spttles</a>
-<a href="<c:url value="/spittles/register"/> ">Register</a>
+<%--<a href="<c:url value="/spittles"/> ">Spttles</a>--%>
+<%--<a href="<c:url value="/spittles/register"/> ">Register</a>--%>
 </body>
 </html>

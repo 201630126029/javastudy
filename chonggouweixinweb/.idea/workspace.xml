@@ -10,11 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227601-5d17-4bd9-bfb4-f4db41ea0224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据库操作" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/BookInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/DatabaseOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DatabaseOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/data/Spittle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/artifacts/untitled1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeControllerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +51,7 @@
     <favorites_list name="chonggouweixinweb" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,42 +151,12 @@
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Request" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,16 +328,17 @@
       <workItem from="1557243752767" duration="1803000" />
       <workItem from="1557299725194" duration="4042000" />
       <workItem from="1557315354487" duration="344000" />
+      <workItem from="1557490736483" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35903000" />
+    <option name="totallyTimeSpent" value="35913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.19093852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.19417475" />
       <window_info id="Structure" order="1" sideWeight="0.5045593" side_tool="true" weight="0.18770227" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +346,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50303954" side_tool="true" weight="0.18770227" />
       <window_info id="Web" order="7" sideWeight="0.50303954" side_tool="true" weight="0.18770227" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37644342" />
@@ -382,6 +362,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.24018475" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.7009238" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
