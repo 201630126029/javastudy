@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 import ok.Customer;
 import ok.JDBCTools;
+import ok.ReflectionUtils;
 import ok.Student;
 import org.junit.Test;
 
@@ -74,6 +75,9 @@ public class JDBCTest {
 		}
 	}
 
+	/**
+	 * 测试通过字段来对对象的字段赋值
+	 */
 	@Test
 	public void testGet() {
 		String sql = "SELECT id, name, email, birth "
@@ -93,7 +97,7 @@ public class JDBCTest {
 	}
 
 	/**
-	 * 通用的查询方法：可以根据传入的 SQL、Class 对象返回 SQL 对应的记录的对象
+	 * 通用的查询方法：可以根据传入的 SQL、Class 对象返回 SQL 对应的记录的对象，直接根据名字设置字段
 	 * @param clazz: 描述对象的类型
 	 * @param sql: SQL 语句。可能带占位符
 	 * @param args: 填充占位符的可变参数。
@@ -319,6 +323,9 @@ public class JDBCTest {
 		}
 	}
 
+	/**
+	 * 测试一下查询学生信息的流程
+	 */
 	@Test
 	public void testGetStudent() {
 		// 1. 得到查询的类型
@@ -348,7 +355,7 @@ public class JDBCTest {
 	 * 具体查询学生信息的. 返回一个 Student 对象. 若不存在, 则返回 null
 	 * 
 	 * @param searchType
-	 *            : 1 或 2.
+	 *            : 1：身份证查询 或 2. 准考证号查询
 	 * @return
 	 */
 	private Student searchStudent(int searchType) {
@@ -435,6 +442,9 @@ public class JDBCTest {
 		return type;
 	}
 
+	/**
+	 * 测试一下从控制台输入一个学生的信息，进行插入
+	 */
 	@Test
 	public void testAddNewStudent() {
 		Student student = getStudentFromConsole();
@@ -474,6 +484,10 @@ public class JDBCTest {
 		return student;
 	}
 
+	/**
+	 * preparestatement的形式插入一个学生
+	 * @param student
+	 */
 	public void addNewStudent2(Student student) {
 		String sql = "INSERT INTO examstudent(flowid, type, idcard, "
 				+ "examcard, studentname, location, grade) "
@@ -485,6 +499,10 @@ public class JDBCTest {
 				student.getGrade());
 	}
 
+	/**
+	 * 插入一个学生到数据库中
+	 * @param student
+	 */
 	public void addNewStudent(Student student) {
 		// 1. 准备一条 SQL 语句:
 		String sql = "INSERT INTO examstudent VALUES(" + student.getFlowId()

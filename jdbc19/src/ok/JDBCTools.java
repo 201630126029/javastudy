@@ -1,5 +1,7 @@
 package ok;
 
+import org.junit.Test;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
@@ -14,7 +16,7 @@ public class JDBCTools {
 
 	/**
 	 * 执行 SQL 语句, 使用 PreparedStatement
-	 * @param sql
+	 * @param sql sql语句
 	 * @param args: 填写 SQL 占位符的可变参数
 	 */
 	public static void update(String sql, Object ... args){
@@ -130,6 +132,22 @@ public class JDBCTools {
 		Connection connection = DriverManager.getConnection(jdbcUrl, user,
 				password);
 		return connection;
+	}
+
+	@Test
+	public void testGetConnection(){
+		try {
+			Connection conn = JDBCTools.getConnection();
+			if(conn != null){
+				System.out.println("成功!");
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
 	}
 
 }

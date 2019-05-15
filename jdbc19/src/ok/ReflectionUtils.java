@@ -1,4 +1,4 @@
-package com.atguigu.jdbc;
+package ok;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -22,12 +22,14 @@ public class ReflectionUtils {
      *
      * @param clazz
      * @param index
-     * @return
+     * @return 找不到就直接返回Object.class，找得到就返回
      */
     @SuppressWarnings("unchecked")
     public static Class getSuperClassGenricType(Class clazz, int index) {
+        //得到声明的父类
         Type genType = clazz.getGenericSuperclass();
 
+        //如果不是参数化类型，就直接Object
         if (!(genType instanceof ParameterizedType)) {
             return Object.class;
         }
@@ -38,6 +40,7 @@ public class ReflectionUtils {
             return Object.class;
         }
 
+        //就是Class，相当于没有参数
         if (!(params[index] instanceof Class)) {
             return Object.class;
         }
@@ -61,10 +64,10 @@ public class ReflectionUtils {
     /**
      * 循环向上转型, 获取对象的 DeclaredMethod
      *
-     * @param object
-     * @param methodName
-     * @param parameterTypes
-     * @return
+     * @param object 对象
+     * @param methodName 方法名称
+     * @param parameterTypes 参数的类型
+     * @return 符合条件的方法
      */
     public static Method getDeclaredMethod(Object object, String methodName, Class<?>[] parameterTypes) {
 
@@ -84,7 +87,7 @@ public class ReflectionUtils {
     /**
      * 使 filed 变为可访问
      *
-     * @param field
+     * @param field 字段对象
      */
     public static void makeAccessible(Field field) {
         if (!Modifier.isPublic(field.getModifiers())) {
@@ -95,8 +98,8 @@ public class ReflectionUtils {
     /**
      * 循环向上转型, 获取对象的 DeclaredField
      *
-     * @param object
-     * @param filedName
+     * @param object 对象
+     * @param filedName 字段名称
      * @return
      */
     public static Field getDeclaredField(Object object, String filedName) {
@@ -114,10 +117,10 @@ public class ReflectionUtils {
     /**
      * 直接调用对象方法, 而忽略修饰符(private, protected)
      *
-     * @param object
-     * @param methodName
-     * @param parameterTypes
-     * @param parameters
+     * @param object 操作的对象
+     * @param methodName 方法的名称
+     * @param parameterTypes 参数类的类型
+     * @param parameters 参数
      * @return
      * @throws InvocationTargetException
      * @throws IllegalArgumentException

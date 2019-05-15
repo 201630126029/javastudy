@@ -10,21 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227601-5d17-4bd9-bfb4-f4db41ea0224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/data/Spittle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/artifacts/untitled1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/out/production/SpringMVCTest/spittr/web/HomeControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCTest/src/spittr/web/HomeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/dao/DatabaseOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/dao/DatabaseOption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/others/over/BookInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/dao/DatabaseOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/dao/DatabaseOption.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +44,47 @@
     <favorites_list name="chonggouweixinweb" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/over/BookInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,10 +149,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1260" />
-    <option name="height" value="944" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,29 +178,40 @@
             <path>
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chonggouweixinweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chonggouweixinweb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557315323454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557828324633" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jdbc19" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -175,14 +220,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuanqis\IdeaProject\chonggouweixinweb\others\over" />
+      <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\others" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src\controller" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\web\WEB-INF\lib" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src\over" />
       <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Siryu\IdeaProjects\chonggouweixinweb\others" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -329,16 +375,18 @@
       <workItem from="1557299725194" duration="4042000" />
       <workItem from="1557315354487" duration="344000" />
       <workItem from="1557490736483" duration="10000" />
+      <workItem from="1557828199095" duration="276000" />
+      <workItem from="1557828606235" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35913000" />
+    <option name="totallyTimeSpent" value="36226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.19417475" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.19906166" />
       <window_info id="Structure" order="1" sideWeight="0.5045593" side_tool="true" weight="0.18770227" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -348,7 +396,7 @@
       <window_info id="Web" order="7" sideWeight="0.50303954" side_tool="true" weight="0.18770227" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37644342" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27620396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +405,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.24018475" />
@@ -468,13 +516,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/Servlet.java" />
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/others/over/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -543,23 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -638,16 +662,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Book.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console_1.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c90099-575f-4806-9e43-9c5324a7b064/console_1.sql" />
     <entry file="file://$PROJECT_DIR$/数据库操作">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -655,17 +671,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/BookInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/DatabaseOption.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="154" column="29" lean-forward="true" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestConnectionDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/over/BookInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/ConnectionOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/jdbc/DBUtilsTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JdbcDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java" charset="UTF-8" />
+  </component>
+</project>
