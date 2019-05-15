@@ -5,53 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9073d7a-d038-4185-ab1f-be6ed386a958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/.idea/dataSources/7fd0b121-1c67-455a-898a-fb06b84ffbca.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/META-INF/jdbc19.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/ok/JDBCTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/ok/ReflectionUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/ok/ReviewTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc19/src/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/DBUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/JdbcDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/dao/DatabaseOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/out/artifacts/chonggouweixinweb_war_exploded/WEB-INF/classes/dao/DatabaseOption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/src/controller/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/others/over/BookInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/META-INF/chonggouweixinweb.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/controller/InitUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/controller/InitUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/dao/DatabaseOption.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chonggouweixinweb/web/WEB-INF/classes/dao/DatabaseOption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/jdbc19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/jdbc19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/com/atguigu/jdbc/JDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/com/atguigu/jdbc/JDBCTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/com/atguigu/jdbc/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/com/atguigu/jdbc/ReflectionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/out/production/jdbc19/com/atguigu/jdbc/ReviewTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/src/com/atguigu/jdbc/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/src/com/atguigu/jdbc/JDBCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/src/com/atguigu/jdbc/ReflectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/src/ok/ReflectionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc19/src/ok/JDBCTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc19/src/ok/JDBCTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc20/src/main/resources/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc22/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/jdbc20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/jdbc20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/com/atguigu/jdbc/review/ReviewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/ok/DAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/ok/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/ok/MetaDataTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/ok/ReflectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/ok/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/test/BeanUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/test/DAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/test/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc20/src/test/TransactionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc21.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/DAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/DBUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/JdbcDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dbcp.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,63 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/DBUtilsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ok/DBUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JdbcDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="143" column="8" lean-forward="true" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
-              <folding>
-                <element signature="e#3626#3849#0" expanded="true" />
-                <element signature="e#3848#3849#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/DAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1276">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
-              <folding>
-                <element signature="e#1272#1273#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="728">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,10 +88,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDaoTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/dbcp.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="224">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="n#dependencies#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ok/JDBCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +131,25 @@
         <option value="$PROJECT_DIR$/src/com/atguigu/jdbc/DAO.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/jdbc/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/jdbc/JDBCTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/jdbc/JDBCTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/JDBCTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/CustomerDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/jdbc/JdbcDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ok/JDBCTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -163,6 +167,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,32 +175,28 @@
               <item name="jdbc21" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdbc21" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jdbc21" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc21" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdbc21" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc21" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557852197543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557935857855" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jdbc20" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuanqis\IdeaProject\jdbc21\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xuanqis\IdeaProject\jdbc21\src" />
     </key>
@@ -224,24 +225,26 @@
       <updated>1557851934952</updated>
       <workItem from="1557851939158" duration="275000" />
       <workItem from="1557852870922" duration="233000" />
+      <workItem from="1557892045570" duration="37000" />
+      <workItem from="1557927196967" duration="4940000" />
+      <workItem from="1557936339094" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508000" />
+    <option name="totallyTimeSpent" value="5498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.6855524" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -254,6 +257,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.6855524" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,98 +273,209 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc21.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/ReflectionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="method#getSuperClassGenricType#0;class#ReflectionUtils#0" />
+            <element signature="method#getDeclaredMethod#0;class#ReflectionUtils#0" />
+            <element signature="method#makeAccessible#0;class#ReflectionUtils#0" />
+            <element signature="method#getDeclaredField#0;class#ReflectionUtils#0" />
+            <element signature="method#invokeMethod#0;class#ReflectionUtils#0" />
+            <element signature="method#setFieldValue#0;class#ReflectionUtils#0" />
+            <element signature="method#getFieldValue#0;class#ReflectionUtils#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dbcp.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdbc21.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sql.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/JDBCTools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/DBUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="218">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#commit#0;class#JDBCTools#0" />
+            <element signature="method#rollback#0;class#JDBCTools#0" />
+            <element signature="method#beginTx#0;class#JDBCTools#0" />
+            <element signature="method#releaseDB#0;class#JDBCTools#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/CustomerDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JdbcDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/JdbcDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#batch#0;class#JdbcDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/DBUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ok/JDBCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dbcp.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/CustomerDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/DAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1276">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/ReflectionUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+        <state relative-caret-position="280">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/jdbc/JDBCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="143" column="8" lean-forward="true" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
-          <folding>
-            <element signature="e#3626#3849#0" expanded="true" />
-            <element signature="e#3848#3849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jdbc21</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-beanutils:commons-beanutils:1.9.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
