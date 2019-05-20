@@ -5,65 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c9ae216-f55a-48f8-89de-944bc05c2327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc21/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc22/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc20.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/jdbc/review/ReviewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ok/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ok/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ok/MetaDataTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ok/ReflectionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ok/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BeanUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/DAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/TransactionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc21/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/test/java/TestAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/control/ListAllStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/model/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/model/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/test/java/insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/web/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/web/test.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/Main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/Main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/baidu.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/dstang.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/pku.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/s.temp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/sina.com.cn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/CalendarDate8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/ClassViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/DoubleAndString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/TestCleanUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/study/java/TestInnerUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/thread/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/src/thread/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main/temp/temp.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc21/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/jdbc21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc21/jdbc21.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/CustomerDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/CustomerDaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/DBUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/JdbcDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/com/atguigu/jdbc/ReflectionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/dbcp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/src/sql.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc22/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,7 +81,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ok/TransactionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
@@ -105,6 +92,15 @@
                 <element signature="method#testTransaction#0;class#TransactionTest#0" />
                 <element signature="method#update#0;class#TransactionTest#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -208,8 +204,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,6 +349,7 @@
       <workItem from="1557847714179" duration="4089000" />
       <workItem from="1557892084454" duration="11836000" />
       <workItem from="1557936353404" duration="17000" />
+      <workItem from="1558238183233" duration="16000" />
     </task>
     <servers />
   </component>
@@ -389,13 +386,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15942000" />
+    <option name="totallyTimeSpent" value="15958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,13 +524,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/temp.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ok/DAOTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -553,15 +543,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Hydrangeas.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" column="19" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Hydrangeas.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ok/TransactionTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,6 +563,13 @@
             <element signature="method#testTransaction#0;class#TransactionTest#0" />
             <element signature="method#update#0;class#TransactionTest#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>

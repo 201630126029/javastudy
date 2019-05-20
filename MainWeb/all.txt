@@ -1,0 +1,19 @@
+没有业务层
+直接servlet调用DAO层
+采取MVC设计模式
+jsp、servlet
+jdbc 使用DBUtils
+页面上的提示操作采用jQuery
+数据库MySQL
+
+技术难点：
+1. 需求过于容易，不写了
+2. 一个模块一个servlet，多个请求一个servlet。
+3. 模糊查询，也算个难点
+4. 创建和修改如何知道用户名是否已经被使用并给出提示
+
+步骤：
+　DAO：
+    1. 数据表
+    2. 数据源，DAO接口、JDBCUtils工具类 和CustomerDAO接口及实现类
+    3. CustomerDAO的实现类：CustomerDAOImpl类
