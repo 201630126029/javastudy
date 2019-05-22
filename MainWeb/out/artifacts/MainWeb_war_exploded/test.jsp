@@ -11,9 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-    <a href="customerServlet?method=add">Add</a><br>
-    <a href="customerServlet?method=query">Query</a><br>
-    <a href="customerServlet?method=delete">Delete</a><br>
-
+    <a href="addCustomer.do">Add</a><br>
+    <a href="query.do">Query</a><br>
+    <a href="delete.do">Delete</a><br>
 </body>
 </html>
