@@ -39,11 +39,11 @@ public class TestAll {
 //        int b = 1 / a;
 //    }
 
-    @Test
-    public void test(){
-        int i=10;
-        i=i++;
-        System.out.println(i);
-    }
+//    @Test
+//    public void test(){
+//        int i=10;
+//        i=i++;
+//        System.out.println(i);
+//    }
 
 }

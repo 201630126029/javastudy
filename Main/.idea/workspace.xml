@@ -2,88 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46170614-a2ce-4a09-b410-50822cba9b68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/JDBCUtilsDAO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/java/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/java/CustomerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/java/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/java/JDBCDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/java/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/test/java/CustomerDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__Arquillian_JUnit_Latest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/damain/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/impl/CustomerDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/db/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/servlet/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/resources/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/test/java/JDBCUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/test/java/insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainWeb/src/test/java/mvcapp/dao/impl/CustomerDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/damain/CriteriaCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/web/WEB-INF/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainWeb/web/c3p0-config.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MainWeb/web/test.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baidu.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dstang.com" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pku.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBCUtilsDAO/src/main/resources/c3p0-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s.temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sina.com.cn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/CalendarDate8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/ClassViewer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/DoubleAndString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/TestCleanUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/java/TestInnerUse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/temp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc21/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/.idea/artifacts/MainWeb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/.idea/artifacts/MainWeb.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/MainWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/MainWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/JDBCUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/insert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/damain/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/dao/CustomerDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/dao/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/dao/impl/CustomerDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/dao/impl/CustomerDAOImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/db/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/classes/mvcapp/servlet/CustomerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/out/artifacts/MainWeb_war_exploded/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/impl/CustomerDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/dao/impl/CustomerDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/db/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/db/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/servlet/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/main/java/mvcapp/servlet/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/src/test/java/mvcapp/dao/impl/CustomerDAOImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/src/test/java/mvcapp/dao/impl/CustomerDAOImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/CustomerDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/DAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/impl/CustomerDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/dao/impl/CustomerDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/db/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/db/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/servlet/CustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/classes/mvcapp/servlet/CustomerServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/target/test-classes/mvcapp/dao/impl/CustomerDAOImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/target/test-classes/mvcapp/dao/impl/CustomerDAOImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/web/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainWeb/web/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWeb/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,17 +70,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestAll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1232">
-              <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+            <state relative-caret-position="151">
+              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+            <state relative-caret-position="168">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,9 +119,11 @@
         <option value="$PROJECT_DIR$/src/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestAll.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
       </list>
     </option>
   </component>
@@ -185,9 +147,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Main" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -197,13 +182,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558181764354" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558715642552" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -230,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="TestAll.test" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="Main" />
       <option name="PACKAGE_NAME" value="" />
@@ -248,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.TestAll" />
         <item itemvalue="JUnit.TestAll.testCase1" />
         <item itemvalue="Android JUnit.TestAll.test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -333,6 +317,7 @@
       <workItem from="1558173051232" duration="6737000" />
       <workItem from="1558233476128" duration="50000" />
       <workItem from="1558352263567" duration="17000" />
+      <workItem from="1558713137437" duration="1186000" />
     </task>
     <servers />
   </component>
@@ -369,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134808000" />
+    <option name="totallyTimeSpent" value="135994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,8 +367,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.16286863" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.16487935" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.16666667" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +378,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008606" side_tool="true" weight="0.16666667" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49838188" visible="true" weight="0.35835695" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49838188" weight="0.35835695" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,7 +449,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/study/java/Fibonacci.java" />
     <entry file="file://$PROJECT_DIR$/src/thread/BlockingQueueTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/thread/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/study/java/Main.java" />
     <entry file="file://$PROJECT_DIR$/dstang.com" />
@@ -494,10 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestAll.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        <state>
+          <caret selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -505,6 +490,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

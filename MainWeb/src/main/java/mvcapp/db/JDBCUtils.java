@@ -13,7 +13,14 @@ public class JDBCUtils {
 
     static {
         //数据源最好只创建一次
-        dataSource = new ComboPooledDataSource("mvcapp");
+
+        try {
+            System.out.println("initial datasource...");
+            dataSource = new ComboPooledDataSource("mvcapp");
+            System.out.println("initial datasource over");
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
     /**
      * 返回数据源的一个Connection的对象
@@ -37,8 +44,4 @@ public class JDBCUtils {
                 e.printStackTrace();
             }
     }
-
-
-
-
 }

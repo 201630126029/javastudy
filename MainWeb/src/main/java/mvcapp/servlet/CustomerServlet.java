@@ -1,6 +1,7 @@
 package mvcapp.servlet;
 
 
+import mvcapp.damain.CriteriaCustomer;
 import mvcapp.damain.Customer;
 import mvcapp.dao.CustomerDAO;
 import mvcapp.dao.impl.CustomerDAOImpl;
@@ -48,10 +49,20 @@ public class CustomerServlet extends HttpServlet {
     }
 
     private void query(HttpServletRequest req, HttpServletResponse resp)throws ServletException, IOException  {
+        String name = req.getParameter("name");
+        String address = req.getParameter("address");
+        String phone = req.getParameter("phone");
+
+        CriteriaCustomer cc = new CriteriaCustomer(name, address, phone);
+
+
+
+
+
         //调用CustomerDao的方法得到所有的Customer的集合
         List<Customer> customers=null;
         try{
-            customers = customerDAO.getAll();
+            customers = customerDAO.getForListWithCriteriaCustomer(cc);
         }catch (Exception e){
             e.printStackTrace();
         }

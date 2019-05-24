@@ -1,5 +1,6 @@
 package mvcapp.dao.impl;
 
+import mvcapp.damain.CriteriaCustomer;
 import mvcapp.damain.Customer;
 import mvcapp.dao.CustomerDAO;
 import org.junit.Test;
@@ -11,7 +12,6 @@ import static org.junit.Assert.*;
 public class CustomerDAOImplTest {
 
     private CustomerDAO customerDAO = new CustomerDAOImpl();
-
     @Test
     public void testGetAll(){
         List<Customer> customers = customerDAO.getAll();
@@ -60,5 +60,12 @@ public class CustomerDAOImplTest {
     public void getCountWithName() {
         Long count = customerDAO.getCountWithName("Mike");
         System.out.println(count);
+    }
+
+    @Test
+    public void getForListWithCriteriaCustomer() {
+        CriteriaCustomer cc = new CriteriaCustomer(null, null ,null);
+        List<Customer> customers = customerDAO.getForListWithCriteriaCustomer(cc);
+        System.out.println(customers);
     }
 }

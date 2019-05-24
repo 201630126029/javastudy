@@ -2,7 +2,6 @@
   <artifact type="exploded-war" build-on-make="true" name="MainWeb">
     <output-path>$PROJECT_DIR$/web</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="MainWeb/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="MainWeb" />
@@ -14,7 +13,7 @@
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.33" />
           <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
-          <element id="library" level="application" name="Maven: com.mchange:c3p0:0.9.5.2" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
         </element>
       </element>
     </root>
